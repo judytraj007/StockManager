@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="Home"
+        android:icon="@drawable/home"
+        android:id="@+id/nav_item_home"/>
+
+    <item android:title="Add New Item"
+        android:icon="@drawable/user"
+        android:id="@+id/nav_item_item"
+        />
+
+    <item android:title="Sales report"
+        android:icon="@drawable/newu"
+        android:id="@+id/nav_item_report"
+        />
+    <item android:title="Add New Brand"
+        android:icon="@drawable/user"
+        android:id="@+id/nav_item_brand"
+        />
+    <item android:title="Add New User"
+        android:icon="@drawable/user"
+        android:id="@+id/nav_item_user"
+        />
+
+
+    <item android:title="Account Settings"
+        android:icon="@drawable/reset"
+        android:id="@+id/nav_account"/>
+
+
+
+
+
+</menu>

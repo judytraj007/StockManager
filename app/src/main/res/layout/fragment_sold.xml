@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/index"
+    android:orientation="vertical"
+    tools:context="com.judy.shopmanager.soldItemsFragment">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="2dp"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="2dp"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorPrimaryDark"
+            android:text="View by:"/>
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:textColor="@color/colorAccent"
+            android:ems="10"
+            style="@android:style/Widget.Holo.Light.Spinner"
+            android:id="@+id/sortSoldSpinner" />
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/sortSoldValue"
+            android:layout_marginLeft="4dp"
+            android:textColorHint="@color/colorPrimaryDark"
+            android:hint="Value"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:layout_height="wrap_content"
+            android:text="Sort"
+            android:id="@+id/sortSoldBtn"
+            style="@style/Base.Widget.AppCompat.Button.Colored"/>
+    </LinearLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="@color/colorPrimary"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Total :"
+        android:textStyle="italic"
+        android:textColor="@color/colorAccent"
+        android:layout_marginLeft="2dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/totalTxt"
+        android:textColor="@color/colorPrimaryDark"
+        style="@style/Base.TextAppearance.AppCompat.Large"
+        android:layout_marginLeft="2dp"/>
+        </LinearLayout>
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="@color/colorPrimary"/>
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_marginTop="5dp"
+        android:divider="@color/colorAccent"
+        android:layout_height="match_parent"
+        android:id="@+id/soldView" />
+</LinearLayout>
+

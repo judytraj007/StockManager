@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-legacy\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a918b3f0650371357842dfa18b782b5217c76c5c">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.journeyapps-zxing-android-legacy-2.1.0_cef419540327ac386fadb7bfcfdcb821da56704c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_be3726afd1439748643b31c6f889d4c11a57572c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.4.0_6312a653c07954c885cea16beeb1420a3d35a2ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.8.0_25b9b52ece453bdc991d4ca6dddf041416d8b313.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_a5f296f93f6b7ffab65559ab26f7f43308538b0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-9.8.0_c02765d198f61527eed4324388728bfa8c71119e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\jsr305-2.0.1_62200580225ecc4b779494a32f8cfdcfb288f85d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-database\0.4.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="acb0b23366d6d35b86d6564fcabf3a2ef439f9af">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.firebaseui-firebase-ui-database-0.4.4_fdd4d0361425ab670ebdf57e8ebc21c995efdb50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_2a7d2ad25c04ecef21ec03392ccf3709a2ac4cb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.8.0_394e7683a4c909475188209f7f9cdc0ec6c2b85d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.8.0_490d752d7f359d4bf9a4e4a63c6d529676eecee4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-auth\0.4.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37e245cd01989dcaca6a48699d0152f0997fb246">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.firebaseui-firebase-ui-auth-0.4.4_e23b34a7cc434b05b5119ee5f196b0468ae9de34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-9.8.0_c02765d198f61527eed4324388728bfa8c71119e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3fb9739a59abca08612891002aacee085db895a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.8.0_75bcbbc1dcba8a399f5d4410c1d237b6d432b046.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_e7e1b7a080375a78fd0ada02f4c2feb6c7919e40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_bcc94403d9a1085bd1143b660b50eba7a2ec233b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="29c426f3ff52238291c86e939dff6bd8a877b86c">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.journeyapps-zxing-android-embedded-3.3.0_604064373517dfdee0e38b0e601e6892a5b05514.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.8.0_16c97f73c6e3f359daf55fae9b1ef199babfea04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui\0.4.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6410576864efb5ed0ec9f10c8e091909959ae27c">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.firebaseui-firebase-ui-0.4.4_44bb8aa205a8e421131a350c822bde951403bb13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_ad1ca00f7052597b8e41341b8888de9bf0d8df80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_be3726afd1439748643b31c6f889d4c11a57572c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_ff7c0ab908e8e82c8d6a80856b1de41786c122ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.8.0_072334060c18cabf63436231420d69adb8bfe68c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_718488b16a688a866c59945fd94f9f15161ca62b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.8.0_3941945f73cdacd02adb162cf52f888d9a2900a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e5a66a941515d873a34065fe44fbba6ef422a1b">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.android.support-customtabs-23.2.1_9ceae35d622ecd4e115a2f94381bec8e19fca02d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="29c426f3ff52238291c86e939dff6bd8a877b86c">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.journeyapps-zxing-android-embedded-3.3.0_604064373517dfdee0e38b0e601e6892a5b05514.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.8.0_25b9b52ece453bdc991d4ca6dddf041416d8b313.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b3d7ff2ed8abc36aacebf1b4aace9fd97c38b02d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_f2f3e4097c997d33921ea4a923e1e4387b8330c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_07e9b94250ec44cc21ce80f2b8647da91ff6dc80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_2a7d2ad25c04ecef21ec03392ccf3709a2ac4cb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.8.0_56be7d95c17e07cf8735eaeebf95e71a54a5ff1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-legacy\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a918b3f0650371357842dfa18b782b5217c76c5c">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.journeyapps-zxing-android-legacy-2.1.0_cef419540327ac386fadb7bfcfdcb821da56704c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3fb9739a59abca08612891002aacee085db895a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.4.0_00c0bed7c57956c95f5fe2095b41b33894356200.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2998babcecc578185c6ffe55287fb18aafc45b80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui\0.4.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6410576864efb5ed0ec9f10c8e091909959ae27c">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.firebaseui-firebase-ui-0.4.4_44bb8aa205a8e421131a350c822bde951403bb13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.8.0_a2e00ca6ea4fa89b9cf3f9f2052042bef0683d1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-auth\0.4.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37e245cd01989dcaca6a48699d0152f0997fb246">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.firebaseui-firebase-ui-auth-0.4.4_e23b34a7cc434b05b5119ee5f196b0468ae9de34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_e7e1b7a080375a78fd0ada02f4c2feb6c7919e40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.4.0_6312a653c07954c885cea16beeb1420a3d35a2ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_a5f296f93f6b7ffab65559ab26f7f43308538b0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_ad1ca00f7052597b8e41341b8888de9bf0d8df80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\core-3.2.1_d0dde7a1ab8a24e9ce23967be1fb8b49991a36c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.8.0_56be7d95c17e07cf8735eaeebf95e71a54a5ff1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_911ddc8844371a2314a903414ff06c1ae9fba374.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.2.1_acd8fad4bb5ed7b5eaf68c10a96bace9aaa640db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b3d7ff2ed8abc36aacebf1b4aace9fd97c38b02d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_ff7c0ab908e8e82c8d6a80856b1de41786c122ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_3d3f9426ceee1b8b1f870afc68173d1eb670fa3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_07e9b94250ec44cc21ce80f2b8647da91ff6dc80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.11.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="86da97c30f50a67ddabe2cf7040713ad17153fce">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-android-sdk-4.11.0_b46ef5b8dc9e6a19b6ade94c15e4ae1c66f81edf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.8.0_a2e00ca6ea4fa89b9cf3f9f2052042bef0683d1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_beebc2921e8b5316b7af0d8ebd5203aad295892d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_6931b805ca2d0c55ed633181971831e1d285633b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.8.0_8ff67d075c945feb4c749d8f231c0a3ef7614f82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_beebc2921e8b5316b7af0d8ebd5203aad295892d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\core-3.2.1_d0dde7a1ab8a24e9ce23967be1fb8b49991a36c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_6931b805ca2d0c55ed633181971831e1d285633b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.8.0_6d3bef851a02abdd6c02a9c5a0d89ef848aae66d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2998babcecc578185c6ffe55287fb18aafc45b80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_acab9f7723c69152f370e71db6104681f55cf8e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_718488b16a688a866c59945fd94f9f15161ca62b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.1.0_74cebc43110836ac74574262c1e107749bb05245.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.8.0_072334060c18cabf63436231420d69adb8bfe68c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_d9a8c5b5e590f3380e057c61d08c9bf8f4fc24b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_911ddc8844371a2314a903414ff06c1ae9fba374.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.11.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="86da97c30f50a67ddabe2cf7040713ad17153fce">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-android-sdk-4.11.0_b46ef5b8dc9e6a19b6ade94c15e4ae1c66f81edf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_3d3f9426ceee1b8b1f870afc68173d1eb670fa3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.8.0_8ff67d075c945feb4c749d8f231c0a3ef7614f82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.8.0_bf382f9819df191397c846779578818140d67036.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.2.1_acd8fad4bb5ed7b5eaf68c10a96bace9aaa640db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-database\0.4.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="acb0b23366d6d35b86d6564fcabf3a2ef439f9af">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.firebaseui-firebase-ui-database-0.4.4_fdd4d0361425ab670ebdf57e8ebc21c995efdb50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.4.0_00c0bed7c57956c95f5fe2095b41b33894356200.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.8.0_394e7683a4c909475188209f7f9cdc0ec6c2b85d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\jsr305-2.0.1_62200580225ecc4b779494a32f8cfdcfb288f85d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.8.0_6d3bef851a02abdd6c02a9c5a0d89ef848aae66d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_f2f3e4097c997d33921ea4a923e1e4387b8330c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_bcc94403d9a1085bd1143b660b50eba7a2ec233b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.8.0_75bcbbc1dcba8a399f5d4410c1d237b6d432b046.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.8.0_bf382f9819df191397c846779578818140d67036.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_acab9f7723c69152f370e71db6104681f55cf8e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.1.0_74cebc43110836ac74574262c1e107749bb05245.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\customtabs\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e5a66a941515d873a34065fe44fbba6ef422a1b">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.android.support-customtabs-23.2.1_9ceae35d622ecd4e115a2f94381bec8e19fca02d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.8.0_3941945f73cdacd02adb162cf52f888d9a2900a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.8.0_16c97f73c6e3f359daf55fae9b1ef199babfea04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.8.0_490d752d7f359d4bf9a4e4a63c6d529676eecee4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="F:\workspace\judy\AndroidStudioProjects\ShopManager\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_d9a8c5b5e590f3380e057c61d08c9bf8f4fc24b3.jar" />
+    </item>
+
+</items>

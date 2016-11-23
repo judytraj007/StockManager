@@ -1,0 +1,95 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/index"
+    android:orientation="vertical"
+    tools:context="com.judy.shopmanager.AddItemFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+        <EditText
+            android:layout_marginTop="10dp"
+            android:layout_width="280dp"
+            android:layout_height="wrap_content"
+            android:hint="Scan the device id"
+            android:textColorHint="@color/colorAccent"
+            android:ems="10"
+            android:id="@+id/IdNum" />
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:id="@+id/img"
+            android:layout_margin="8dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/user"/>
+    </LinearLayout>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Title"
+        android:textColorHint="@color/colorAccent"
+        android:ems="10"
+        android:id="@+id/title" />
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorAccent"
+        android:ems="10"
+        style="@android:style/Widget.Holo.Light.Spinner"
+        android:id="@+id/brandSpinner" />
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorAccent"
+        android:ems="10"
+        style="@android:style/Widget.Holo.Light.Spinner"
+        android:id="@+id/storeSpinner" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColorHint="@color/colorAccent"
+        android:inputType="number"
+        android:hint="Price"
+        android:ems="10"
+        android:id="@+id/price" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <RadioGroup
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/myRadioGroup"
+                android:checkedButton="@+id/sound">
+            <RadioButton
+                android:text="Mobile"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="8dp"
+                android:id="@+id/mobile" />
+
+            <RadioButton
+                android:text="Accessory"
+                android:padding="8dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/accessory" />
+            </RadioGroup>
+        </LinearLayout>
+
+
+    <Button
+        android:layout_marginTop="10dp"
+        android:text="OK"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ok" />
+
+
+</LinearLayout>
